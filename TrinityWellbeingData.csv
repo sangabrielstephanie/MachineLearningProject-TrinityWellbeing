@@ -1,0 +1,454 @@
+How would you describe yourself?,What is your age?,What is the highest level of education you have completed?,"Overall, how satisfied are you with life as a whole these days?","In general, I consider myself a happy person.","In general, how would you rate your physical health?",How would you rate your overall mental health?,"Overall, to what extent do you feel the things you do in your life are worthwhile?",I am doing things now that will help me achieve my goals in life.,"I always act to promote good in all circumstances, even in difficult and challenging situations.",I am always able to give up some happiness now for greater happiness later.,I am content with my friendships and relationships.,I have people in my life I can talk to about things that really matter.,My family has enough money to live a truly decent life.,"How often do you worry about safety, food, or housing?","Are you a student, staff member, or faculty member at Trinity?",Everyone has close relationships within the college.,Everyone is respected within the college.,Everyone in the college trusts one another.,Everyone contributes to the wellbeing of others in the college.,Those in leadership truly care about the wellbeing of everyone in the college.,Those in leadership can be relied on to do what is right.,Those in leadership have the skills and understanding they need to lead the college well.,Those in leadership are able to inspire the college with their vision.,There are structures and practices in the college that allow relationships to become closer.,There are structures and practices in place that allow the college to deal with conflicts so that everyone is treated fairly.                                 ,The college has structures and practices so as to be able to sustain itself.,The college has structures and practices that allow it to accomplish its goal.,Everyone is satisfied with the way things are in our college.,Everyone thinks that this college is a good community to be a part of.,Each person has a sense of belonging in the college.,There is a sense of welcome in the college so that it is possible for each person to become more integrated over time.,Our college’s shared purpose or mission is clear to everyone.,Our college contributes to the world to make it a better place.,Everyone is needed for the college to fulfil its goals and purposes.,Our college is able to do more with everyone together than we could individually.
+Male,22,An associate degree,8,7,7,7,8,8,7,6,7,7,7,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,7,6,5,8,9,9,8,8,9,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,6,8,9,8,8,10,9,8,9,8,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,8,8,7,6,6,9,7,7,8,10,10,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,High school diploma or equivalent,9,9,8,8,8,9,7,5,8,9,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,7,6,3,4,5,4,5,5,7,4,3,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,8,8,7,7,9,9,8,7,9,9,9,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,44,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",6,7,8,7,8,8,8,8,8,10,9,7,Faculty,3,8,8,8,7,9,8,8,5,6,6,6,4,3,1,1,6,6,8,8
+Male,22,Some college but no degree,8,8,9,7,5,8,10,10,7,10,6,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,6,5,5,4,7,8,8,5,8,7,4,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,8,8,9,10,10,10,10,9,8,10,10,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,High school diploma or equivalent,5,6,7,4,6,6,6,7,6,5,5,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,4,4,3,8,8,7,4,9,8,8,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,10,9,9,9,9,9,8,9,10,10,9,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,41,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,9,9,10,10,10,10,10,10,10,10,Faculty,7,8,8,7,8,7,7,8,7,7,7,8,6,8,8,8,9,9,9,9
+Female,20,Some college but no degree,8,8,9,8,8,8,9,7,9,9,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,10,7,6,7,8,10,7,5,10,10,6,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,39,An associate degree,7,2,7,2,4,0,0,3,5,0,4,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,36,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,9,8,7,9,8,8,7,4,3,7,9,Faculty,8,7,7,7,3,3,3,2,7,5,2,4,2,6,6,8,9,7,8,9
+Female,20,Some college but no degree,8,10,7,7,10,10,9,9,8,9,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,39,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,8,7,8,9,9,8,9,9,8,7,10,Faculty,4,4,4,4,3,2,2,6,3,6,5,3,0,3,2,7,6,8,7,6
+Male,20,An associate degree,8,8,8,7,7,8,8,7,7,9,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,8,6,6,8,9,10,9,8,9,9,10,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,7,7,8,7,6,6,7,7,9,9,6,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,8,10,9,7,8,9,9,7,8,8,7,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,57,A bachelors degree,8,9,8,9,9,7,9,9,9,10,10,10,Staff,0,2,2,1,3,9,9,7,4,7,1,4,4,4,4,4,5,7,9,9
+Male,N/A,A bachelor degree,6,7,5,6,4,3,8,7,4,4,5,5,Staff,3,6,6,5,9,9,6,7,3,5,3,5,2,7,3,9,4,7,7,7
+Female,61,N/A,9,8,7,8,9,8,9,N/A,8,9,9,9,Staff,7,8,7,7,8,8,8,8,7,7,7,7,5,6,7,8,7,8,8,9
+Female,20,Some college but no degree,6,8,9,7,9,10,6,4,4,5,4,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,A bachelors degree,10,10,10,10,10,9,8,9,9,10,8,7,Staff,5,5,5,8,8,7,6,6,8,7,8,8,4,7,7,7,7,8,8,9
+Male,28,Some college but no degree,10,10,10,10,10,10,10,10,10,10,4,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,8,9,10,9,9,10,8,8,8,8,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,10,7,9,6,8,7,7,10,10,9,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,35,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,6,5,10,8,10,8,6,10,8,10,Staff,6,9,9,9,7,8,6,7,5,5,7,7,5,8,7,9,8,9,9,9
+Female,19,Some college but no degree,8,8,7,8,8,8,7,7,7,8,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,High school diploma or equivalent,8,7,9,8,9,10,10,7,10,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,63,A bachelors degree,7,8,6,7,8,8,8,7,9,9,8,5,Staff,6,6,7,7,8,7,9,9,8,8,8,8,6,9,8,8,9,10,10,10
+Female,25,A bachelors degree,8,7,9,5,10,10,9,7,8,10,5,9,Staff,8,4,3,8,5,9,9,N/A,1,4,5,5,1,6,6,5,8,9,10,10
+Male,33,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,7,7,7,8,7,8,7,7,9,8,6,Staff,4,7,6,6,7,6,7,7,6,5,7,7,5,8,7,8,7,7,7,7
+Female,20,Some college but no degree,7,9,5,9,8,10,10,7,7,7,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,7,6,6,5,5,6,6,7,6,3,6,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,48,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",6,8,5,6,7,6,8,7,8,8,10,0,Staff,5,5,1,5,7,5,7,8,6,6,4,4,0,5,3,3,8,8,8,8
+Female,24,Some college but no degree,8,7,7,7,9,9,8,8,9,9,7,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,63,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,7,9,9,9,9,9,10,10,5,5,Staff,5,5,3,3,8,8,9,9,3,1,4,8,2,5,2,7,9,9,9,9
+Female,22,High school diploma or equivalent,8,7,5,5,8,10,5,8,7,7,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,8,7,7,8,7,9,6,10,8,10,4,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,47,A bachelors degree,8,8,8,8,7,7,8,8,8,8,8,10,Staff,5,7,6,7,7,7,8,9,5,6,5,7,6,7,7,6,8,9,9,10
+Female,N/A,Some college but no degree,7,8,8,7,8,9,8,4,8,9,4,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,81,An associate degree,8,8,8,8,8,7,8,8,8,9,8,8,Staff,7,7,7,7,8,8,8,8,8,8,8,8,8,8,8,8,8,8,10,10
+Female,22,Some college but no degree,5,5,4,6,8,9,9,9,6,8,6,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,7,6,9,7,7,10,8,7,6,8,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,38,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",5,5,7,7,9,9,9,9,10,10,10,9,Faculty,3,3,3,5,6,6,5,6,5,4,3,3,0,3,5,7,0,8,8,8
+Female,22,A bachelors degree,9,10,9,9,10,10,10,7,10,10,8,10,Staff,7,5,4,7,8,8,8,9,5,6,3,6,3,4,3,7,4,8,9,10
+Female,19,Some college but no degree,8,9,8,8,8,9,8,7,9,10,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,9,9,7,8,9,9,8,7,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,5,7,5,8,6,10,10,9,4,5,6,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,57,An associate degree,7,10,6,9,10,9,10,10,10,10,9,10,Staff,4,4,2,3,5,5,6,6,5,5,5,5,2,4,5,5,7,7,10,10
+Male,19,Some college but no degree,6,7,9,7,5,6,7,10,4,9,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,10,10,8,8,10,10,8,8,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,A bachelors degree,10,10,7,10,10,10,10,10,8,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,7,8,6,7,7,8,5,6,8,7,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,7,7,9,6,5,8,6,10,9,9,8,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,24,Some college but no degree,8,8,8,7,9,10,5,7,10,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,64,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,9,9,9,8,9,9,8,10,9,9,Staff,6,5,3,4,3,3,4,4,4,5,6,6,1,4,6,6,7,8,4,6
+Female,20,Some college but no degree,6,6,7,6,6,7,7,7,5,7,7,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,34,An associate degree,9,9,7,8,10,9,10,6,7,9,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,38,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,7,7,7,9,8,7,8,9,6,8,Staff,7,7,7,8,8,7,7,7,7,7,7,7,6,7,6,6,6,6,6,6
+Female,37,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",5,6,6,6,7,5,7,7,8,10,4,5,Staff,4,5,4,4,10,8,6,6,6,4,2,4,0,3,3,5,7,7,9,9
+Female,59,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",6,7,5,7,8,8,7,7,7,9,8,7,Staff,7,9,7,8,8,8,9,9,7,8,8,8,7,8,8,8,9,9,9,9
+Female,20,An associate degree,8,8,9,8,10,8,10,7,7,10,10,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,24,An associate degree,7,8,7,7,7,8,10,9,7,6,7,3,Staff,7,7,7,6,7,8,8,9,9,9,9,9,8,8,8,8,10,10,9,9
+Male,48,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,9,8,7,8,8,8,7,7,8,7,3,Staff,7,7,4,5,7,5,5,4,6,6,5,6,3,5,5,7,6,7,9,9
+Male,60,A bachelors degree,7,7,7,7,7,6,7,7,7,4,8,4,Staff,2,5,5,5,7,7,5,6,6,6,4,4,3,7,4,5,8,6,8,7
+Female,24,A bachelors degree,10,10,9,8,9,10,9,8,7,10,7,7,Staff,6,6,5,4,5,5,7,7,4,6,7,7,6,8,8,8,7,7,8,8
+Female,24,An associate degree,7,9,10,10,10,10,10,10,10,10,8,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,9,8,9,7,10,10,10,8,9,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,24,A bachelors degree,10,10,9,9,10,10,9,8,8,10,7,8,Staff,7,7,5,7,7,6,7,7,7,8,7,8,5,8,7,9,8,7,10,10
+Female,22,Some college but no degree,6,7,8,6,10,7,9,7,6,7,6,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,30,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,9,7,10,10,10,9,8,10,9,8,Staff,7,4,4,4,10,8,6,8,9,4,4,7,5,8,6,9,8,10,10,10
+Male,22,High school diploma or equivalent,5,5,5,5,5,5,5,5,5,5,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,43,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,9,9,9,9,9,9,9,9,9,10,Faculty,6,7,6,6,7,7,7,7,8,6,5,5,6,6,6,7,8,8,8,8
+Female,53,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,8,4,5,4,2,8,7,8,8,4,6,Staff,5,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,2,1,10,5
+Male,25,A bachelors degree,8,9,9,7,8,10,9,7,8,10,6,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,9,10,9,9,9,10,9,9,10,9,10,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,8,9,5,8,8,8,5,8,10,9,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,44,A bachelors degree,9,10,8,9,9,10,9,9,8,10,10,10,Staff,3,4,3,4,5,5,4,4,4,5,6,5,4,5,5,5,4,5,6,8
+Female,67,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",10,8,8,10,9,10,8,7,10,10,8,9,Staff,1,2,0,0,9,9,9,6,6,4,5,8,1,3,4,5,6,5,10,7
+Female,22,A bachelors degree,7,6,5,3,6,8,8,8,6,8,7,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,10,9,9,7,9,9,8,9,6,10,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,7,8,10,10,10,8,8,10,10,0,Faculty,0,6,7,9,4,3,0,3,6,8,5,1,0,10,N/A,9,10,10,10,10
+Female,20,An associate degree,9,9,6,7,10,10,6,6,6,10,6,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,51,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,7,7,9,9,8,7,7,7,6,7,Staff,7,7,7,8,10,10,10,10,8,8,7,8,7,8,8,8,9,9,9,9
+Female,49,A bachelors degree,8,8,7,8,8,8,8,7,9,9,7,5,Staff,8,8,9,9,8,9,9,9,7,7,5,5,8,9,N/A,9,8,5,9,9
+Male,44,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,7,8,7,7,7,6,9,7,10,10,0,Faculty,3,5,2,5,1,2,3,5,6,2,4,6,2,7,5,8,6,9,10,10
+Female,23,Some college but no degree,0,0,0,0,0,10,10,5,2,1,0,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,7,9,6,4,8,10,7,10,9,9,5,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,26,A bachelors degree,9,8,8,8,9,9,8,6,7,8,9,8,Staff,8,7,4,4,5,5,4,6,6,8,5,5,4,6,6,8,6,7,9,9
+Female,18,High school diploma or equivalent,10,10,10,8,10,10,10,10,10,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,8,9,9,8,10,10,9,7,8,7,10,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,6,4,6,8,6,8,6,3,6,9,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,23,Some college but no degree,7,8,8,7,9,6,7,5,7,9,9,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,25,An associate degree,3,3,7,5,8,8,5,10,2,1,4,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,8,8,9,9,8,10,7,9,10,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,25,High school diploma or equivalent,8,7,7,6,9,10,5,9,8,10,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,71,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,6,9,9,8,8,9,8,7,10,6,10,Faculty,8,7,7,7,6,8,7,7,4,7,3,8,5,7,6,7,7,9,9,9
+Female,24,A bachelors degree,10,10,9,9,9,10,8,8,9,10,9,5,Staff,5,6,6,7,8,8,8,8,7,7,7,7,6,7,6,6,8,8,7,7
+Male,44,A bachelors degree,10,10,9,10,10,10,9,7,10,10,10,9,Staff,7,9,8,9,10,10,10,10,10,10,9,10,6,9,9,10,10,10,10,10
+Female,36,An associate degree,10,10,7,7,10,10,10,10,10,10,5,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,A bachelors degree,7,5,8,6,7,8,7,6,5,3,1,7,Staff,2,2,1,0,3,3,5,3,2,1,2,3,0,5,2,5,6,7,10,10
+Female,18,Some college but no degree,8,4,7,7,4,4,4,4,4,1,1,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,An associate degree,10,7,7,6,10,8,10,4,10,10,7,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,9,8,5,9,8,9,9,10,10,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,A bachelors degree,8,9,8,7,9,10,9,4,8,9,10,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,10,9,7,8,8,6,N/A,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,43,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,3,7,9,9,9,8,8,9,8,10,Faculty,3,3,1,3,2,5,7,5,3,2,5,7,1,3,3,8,9,10,10,10
+Female,26,An associate degree,8,8,5,8,9,9,7,7,9,10,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,7,5,5,9,9,7,6,10,9,3,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,7,7,7,8,8,10,7,7,8,8,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,65,A bachelors degree,9,9,8,9,9,10,9,7,9,10,10,9,Staff,2,4,2,4,8,8,7,8,2,3,2,2,2,3,3,3,7,7,10,10
+Female,32,A bachelors degree,8,8,6,7,8,7,10,8,8,10,10,9,Staff,7,8,6,7,10,9,7,9,7,8,6,8,5,9,8,8,9,10,9,10
+Male,25,An associate degree,8,8,9,8,9,9,7,7,6,8,3,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,Some college but no degree,7,7,7,6,5,5,6,8,9,9,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,7,7,9,8,8,10,9,9,8,8,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,7,8,5,5,6,8,8,9,10,8,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,9,9,9,9,10,8,10,9,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,A bachelors degree,8,9,8,9,7,6,7,5,8,9,7,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,10,8,6,8,10,10,10,8,10,10,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,Some college but no degree,7,9,9,10,8,10,6,6,9,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,7,7,6,6,7,7,8,8,9,9,5,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,33,A bachelors degree,8,8,8,8,8,8,8,8,8,8,7,8,Staff,6,7,6,4,5,5,6,5,7,6,5,6,3,6,6,6,7,7,8,9
+Male,21,High school diploma or equivalent,10,9,8,9,7,7,8,7,8,10,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,7,2,7,1,10,7,7,7,7,7,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,8,3,5,7,6,8,6,6,8,9,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,10,10,5,7,8,8,10,8,8,10,2,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,18,High school diploma or equivalent,6,7,8,5,4,6,8,4,5,8,5,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,An associate degree,7,7,9,6,7,8,6,5,6,9,9,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,25,Some college but no degree,7,7,8,7,8,8,10,8,6,7,8,5,Staff,5,9,8,9,9,8,8,8,5,5,5,5,5,5,6,7,8,8,7,8
+Female,19,High school diploma or equivalent,7,9,5,7,9,7,8,7,9,10,10,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,7,7,6,6,7,10,6,N/A,9,8,7,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,8,9,6,9,9,9,6,8,9,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,An associate degree,4,10,9,8,7,9,7,7,10,10,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,50,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,8,8,8,9,7,8,9,9,7,5,Staff,6,5,5,8,8,7,8,9,8,5,5,7,5,6,6,7,7,8,9,9
+Female,22,High school diploma or equivalent,6,7,7,6,7,8,8,8,8,9,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,54,A bachelors degree,10,10,10,10,10,10,10,10,10,10,10,10,Staff,9,9,9,10,10,10,10,N/A,10,10,9,10,10,10,10,10,10,10,10,10
+Female,42,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,9,4,5,8,10,6,4,8,10,10,9,Faculty,3,3,4,5,6,5,7,6,6,N/A,7,7,0,9,3,8,7,8,9,9
+Female,21,Some college but no degree,5,8,8,7,8,8,8,7,9,10,5,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,8,6,7,8,7,6,8,5,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,31,A bachelors degree,6,6,9,6,9,10,9,10,6,6,5,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,29,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",1,1,0,1,2,6,9,8,0,1,4,5,Faculty,1,7,1,4,2,5,5,9,1,3,1,2,1,7,3,7,10,9,10,10
+Female,45,A bachelors degree,6,2,1,0,4,4,6,7,8,7,10,3,Staff,3,4,3,3,4,4,4,6,5,5,2,3,1,1,3,3,3,6,9,7
+Female,41,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",5,7,5,7,7,6,6,5,6,7,3,3,Faculty,5,8,8,7,7,8,8,8,7,7,4,6,6,6,5,7,6,6,6,6
+Male,22,Some college but no degree,7,8,7,7,8,8,9,9,9,8,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,55,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,6,7,8,9,9,8,6,8,5,6,Faculty,2,3,3,3,4,4,4,4,5,5,1,2,2,4,5,5,5,7,8,8
+Male,N/A,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,8,8,8,8,8,8,8,8,8,9,Faculty,5,6,6,7,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7
+Female,28,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,8,4,7,9,9,8,7,8,2,2,Faculty,7,8,8,9,9,9,8,8,9,8,6,7,7,8,8,9,9,9,10,10
+Female,24,An associate degree,10,10,7,10,10,10,10,10,9,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,7,8,8,7,9,10,9,8,9,10,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,28,An associate degree,6,5,6,3,6,9,7,8,7,6,2,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,51,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,8,10,10,10,9,8,9,5,4,8,Faculty,5,3,3,5,9,8,9,9,9,6,7,7,5,7,8,6,6,9,9,10
+Female,21,An associate degree,5,7,8,6,8,9,7,7,6,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,8,7,8,7,8,8,7,8,9,9,7,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,4,7,4,4,4,5,7,3,4,7,2,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,46,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,8,9,9,10,9,9,8,8,8,7,5,Faculty,5,8,7,5,3,5,5,5,3,6,3,3,3,5,5,5,3,5,5,5
+Male,55,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,8,7,8,8,7,7,8,7,10,10,10,Faculty,3,6,3,6,2,1,1,2,5,3,3,5,2,2,2,5,2,5,6,7
+Female,20,Some college but no degree,8,7,7,9,9,10,9,4,10,9,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,4,4,7,4,7,7,7,5,3,1,10,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,23,High school diploma or equivalent,9,9,9,9,10,9,9,9,8,8,8,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,64,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,9,7,9,10,10,10,10,10,10,10,10,Faculty,5,5,4,4,5,5,4,5,4,4,3,3,4,4,5,6,5,6,5,5
+Female,18,High school diploma or equivalent,9,10,8,6,7,10,5,6,8,7,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,7,7,4,6,7,7,5,4,5,7,6,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,18,High school diploma or equivalent,7,7,9,4,8,8,6,8,8,10,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,43,A bachelors degree,7,8,6,7,9,9,8,7,7,8,8,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,40,Some college but no degree,10,8,8,8,10,10,8,8,9,10,5,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,5,5,5,3,5,6,7,9,5,1,1,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,60,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,7,6,7,5,5,6,7,7,10,10,0,Staff,7,8,4,7,9,7,N/A,7,6,N/A,N/A,8,3,7,7,7,8,8,N/A,9
+Male,22,An associate degree,8,7,9,7,8,9,9,9,8,8,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,7,6,7,7,6,7,6,5,8,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,33,A bachelors degree,9,9,9,N/A,10,9,9,10,9,10,8,1,Staff,5,7,7,6,10,10,10,10,7,6,4,4,2,6,7,8,7,7,3,10
+Female,21,Some college but no degree,8,9,8,8,9,9,9,8,7,9,9,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,24,A bachelors degree,6,9,4,7,9,9,9,4,4,8,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,58,A bachelors degree,8,9,8,8,9,9,8,8,9,10,10,10,Staff,7,8,6,6,7,7,6,7,8,8,6,7,5,7,8,9,7,9,9,9
+Male,39,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,7,8,9,9,9,9,9,9,5,7,Staff,2,6,2,6,8,7,7,8,6,6,5,6,6,6,5,6,4,8,9,9
+Female,28,An associate degree,8,10,9,8,10,10,10,10,10,10,5,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,2,3,3,3,2,7,5,9,10,10,5,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,26,A bachelors degree,6,6,6,5,7,10,9,8,8,10,2,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,7,10,9,6,10,10,10,8,10,10,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,48,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,6,8,9,9,9,8,7,10,10,9,9,Faculty,4,5,3,4,5,4,3,8,6,4,5,4,2,6,5,6,9,9,7,9
+Male,43,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",3,7,4,3,3,2,6,2,1,2,3,6,Staff,0,3,1,0,8,2,1,4,1,5,0,3,0,0,0,2,8,7,3,3
+Male,N/A,A bachelors degree,9,8,8,7,8,6,9,5,10,10,8,7,Staff,3,8,7,7,9,8,8,9,5,6,4,8,3,7,6,9,6,10,9,9
+Male,64,Some college but no degree,8,10,8,10,10,10,10,0,10,8,5,10,Staff,5,5,5,10,6,6,6,7,10,10,10,10,7,7,7,7,6,10,10,10
+Female,19,Some college but no degree,6,9,8,8,7,7,10,9,6,6,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,25,Some college but no degree,8,6,6,5,9,9,7,9,8,10,5,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,7,9,8,7,8,9,9,7,6,10,9,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,30,An associate degree,5,8,7,5,7,8,7,6,7,8,2,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,40,A bachelors degree,8,9,7,7,7,8,7,7,8,10,6,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,7,8,8,7,7,8,7,9,6,9,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,An associate degree,5,5,3,5,4,3,5,5,6,8,4,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,5,5,5,5,5,5,4,5,5,5,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,7,8,7,5,7,8,6,6,6,6,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,6,3,3,2,7,8,10,8,7,5,6,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,10,10,8,8,8,8,9,6,7,8,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,8,9,8,9,9,9,10,10,10,10,10,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,A bachelors degree,9,9,8,9,9,9,8,8,9,9,9,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,9,6,5,8,8,10,8,7,9,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,10,8,7,6,9,10,10,8,10,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,8,9,8,7,9,9,8,6,7,8,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,7,7,6,9,5,10,9,9,4,3,6,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,7,7,7,7,7,7,7,7,7,7,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,27,Some college but no degree,8,8,5,6,10,10,8,6,8,8,0,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,9,8,9,9,9,10,10,10,8,7,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,25,Some college but no degree,10,10,8,10,10,10,10,10,10,10,4,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,High school diploma or equivalent,9,8,5,7,6,8,8,6,7,10,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,18,Some college but no degree,4,6,7,4,8,8,7,10,4,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,7,7,8,7,9,6,5,10,10,10,7,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,9,10,6,7,9,10,9,10,10,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,30,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,6,7,5,4,6,7,8,8,4,6,Staff,2,2,3,3,2,2,1,0,2,2,2,3,3,2,4,1,6,3,4,3
+Female,23,A bachelors degree,10,9,6,6,10,10,9,7,10,10,8,7,Staff,8,8,7,10,10,10,10,10,10,10,9,10,7,10,10,10,10,10,10,10
+Female,19,Some college but no degree,6,6,5,5,6,7,8,6,8,5,9,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,26,An associate degree,9,9,9,9,9,9,9,9,9,8,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,36,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,7,7,8,9,9,7,8,2,3,10,10,Staff,7,8,7,7,10,8,9,8,7,6,5,7,6,8,7,6,8,9,9,10
+Female,40,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",6,7,7,5,6,6,5,6,10,10,8,8,Faculty,5,7,2,2,3,2,1,3,6,2,5,5,2,5,4,6,7,9,10,8
+Female,20,Some college but no degree,8,8,4,6,7,9,9,5,9,10,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,An associate degree,6,6,7,5,6,6,6,5,4,4,10,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,8,9,5,8,9,10,10,4,8,9,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,7,4,3,6,8,10,4,9,8,10,10,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,27,A bachelors degree,6,7,8,4,6,10,10,7,6,10,7,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,9,8,5,5,9,8,9,7,8,9,6,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,A bachelors degree,8,9,10,8,10,9,7,7,8,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,9,9,10,9,10,10,8,8,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,7,8,8,7,8,10,8,10,10,10,5,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,24,Some college but no degree,8,9,8,5,8,10,10,8,4,2,0,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,43,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,8,7,7,8,8,9,6,7,8,9,1,Staff,4,6,4,6,4,4,4,6,4,4,6,6,3,5,5,6,6,7,7,8
+Female,21,Some college but no degree,8,8,6,8,9,7,7,4,10,10,8,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,10,10,9,9,10,10,9,5,10,10,10,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,8,7,8,5,10,9,9,8,8,10,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,High school diploma or equivalent,5,5,7,6,6,9,9,8,8,8,7,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,10,10,8,9,9,8,8,9,7,9,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,Some college but no degree,7,6,7,6,8,9,7,7,5,8,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,7,7,8,7,6,7,7,8,7,8,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,6,8,5,7,8,9,7,9,10,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,7,8,6,7,9,10,10,10,10,10,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,8,8,7,7,8,9,8,6,8,8,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,50,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,10,9,7,8,9,8,9,8,9,7,9,Faculty,0,0,0,0,0,0,0,0,5,3,1,3,0,0,0,5,3,10,10,10
+Male,40,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",4,6,9,3,6,5,9,6,2,6,10,10,Faculty,3,9,7,10,9,9,7,9,7,10,3,7,2,10,9,10,7,10,10,10
+Female,18,High school diploma or equivalent,6,9,9,7,9,10,9,9,9,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,8,8,9,7,7,7,4,3,4,5,3,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,7,9,5,7,7,7,4,8,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,9,10,6,8,9,9,10,8,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,24,An associate degree,7,7,7,7,8,9,7,8,7,7,8,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,7,9,6,7,9,10,8,8,10,10,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,8,8,8,7,7,7,6,6,7,9,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,A bachelors degree,7,5,4,8,9,10,8,7,5,9,8,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,8,8,5,8,5,10,8,10,8,10,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,High school diploma or equivalent,8,6,10,6,7,10,5,5,10,8,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,30,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,6,8,9,9,9,9,7,8,7,5,Staff,5,4,1,4,5,6,6,7,4,2,3,4,4,4,4,5,5,6,9,8
+Male,21,An associate degree,8,9,10,7,9,9,9,6,6,8,9,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,38,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,9,9,10,8,9,8,10,10,10,8,Staff,3,5,N/A,10,3,5,2,4,7,2,0,2,2,5,5,5,7,9,8,10
+Female,20,High school diploma or equivalent,8,9,6,8,8,7,8,2,8,10,10,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,6,5,7,5,6,7,7,7,5,9,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,8,8,7,9,10,8,7,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,41,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,10,8,7,9,10,9,5,8,10,9,9,Faculty,7,9,8,8,8,8,8,9,8,9,6,9,3,7,6,9,10,9,9,10
+Female,32,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,8,8,8,8,8,8,7,9,9,5,Staff,7,7,7,7,8,9,9,9,5,5,5,5,7,9,9,9,9,9,9,9
+Female,21,Some college but no degree,8,10,8,9,7,8,7,5,8,10,9,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,7,5,6,7,7,8,6,5,6,10,10,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,41,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,4,7,7,5,8,8,6,10,10,2,Staff,7,7,5,7,8,8,7,8,5,7,N/A,7,7,7,N/A,8,8,9,9,9
+Female,23,An associate degree,8,7,9,5,9,10,4,7,7,3,7,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,29,Some college but no degree,7,10,6,3,8,10,8,8,10,10,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,58,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,10,8,9,10,9,4,9,9,10,8,9,Faculty,4,2,1,6,2,3,3,3,4,4,7,7,2,6,4,6,6,10,10,10
+Female,50,Some college but no degree,8,9,5,9,9,8,9,8,9,9,8,5,Staff,7,9,9,8,9,9,9,9,7,8,8,8,8,8,9,9,8,9,10,10
+Male,30,A bachelors degree,7,9,7,7,10,10,10,6,6,5,2,2,Staff,8,5,2,2,3,5,6,8,8,6,7,7,5,8,7,7,6,10,10,10
+Male,19,High school diploma or equivalent,7,8,7,9,8,7,10,9,8,8,7,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,10,10,10,10,10,10,10,10,10,10,10,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,6,7,10,7,7,8,6,6,5,7,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,8,8,9,7,8,10,8,7,9,9,9,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,24,Some college but no degree,8,8,9,7,7,10,10,8,7,7,6,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,24,Some college but no degree,8,8,9,3,3,5,10,6,0,1,6,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,9,9,6,7,9,6,7,9,6,5,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,7,7,6,6,6,8,8,7,7,4,8,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,High school diploma or equivalent,9,8,9,8,8,9,9,8,8,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,An associate degree,9,9,9,9,9,9,9,9,9,8,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,An associate degree,6,5,8,5,8,10,6,7,8,3,3,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,An associate degree,8,10,9,9,8,10,10,7,9,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,An associate degree,6,7,7,8,8,6,8,8,8,8,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,9,9,7,6,8,10,8,10,5,4,7,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,An associate degree,7,9,8,5,9,9,9,6,10,9,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,6,8,9,8,8,8,8,10,9,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,10,10,10,9,10,8,10,5,10,10,3,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,23,Some college but no degree,8,8,10,8,7,10,7,8,10,10,6,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,An associate degree,10,10,7,10,10,10,10,10,7,7,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,High school diploma or equivalent,8,8,9,8,7,8,9,8,9,9,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,4,5,9,3,4,6,9,8,8,9,5,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,8,8,8,9,7,5,10,10,10,10,6,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,6,4,8,4,5,7,6,9,7,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,8,10,9,8,9,10,7,7,7,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,8,8,8,7,5,9,9,6,9,10,7,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,7,7,7,8,6,6,10,7,10,8,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,An associate degree,7,9,9,8,7,6,7,10,5,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,44,A bachelors degree,9,9,7,9,10,9,10,9,9,9,9,2,Staff,8,9,7,9,8,8,8,10,8,8,7,7,6,8,8,10,8,9,10,10
+Male,19,High school diploma or equivalent,10,10,10,10,9,10,9,8,10,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,26,An associate degree,7,7,6,7,8,8,8,6,8,7,6,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,7,10,6,9,7,8,5,8,9,10,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,5,10,10,5,7,9,4,4,5,5,4,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,49,A bachelors degree,8,8,8,9,9,10,10,10,8,9,7,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,A bachelors degree,8,6,9,7,10,10,6,5,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,63,A bachelors degree,7,8,3,5,10,8,N/A,8,10,10,5,5,Staff,3,3,2,8,5,2,2,3,3,5,2,3,5,4,4,4,0,6,10,10
+Female,19,High school diploma or equivalent,3,7,8,4,5,6,7,5,9,8,6,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,47,A bachelors degree,8,10,7,8,10,10,10,10,10,10,9,6,Staff,7,10,7,7,10,10,10,10,7,4,6,7,3,8,7,9,8,10,10,10
+Male,51,Some college but no degree,7,5,5,7,8,5,6,7,8,9,3,7,Staff,7,0,5,2,2,1,1,1,1,1,1,1,2,3,3,6,8,5,5,5
+Female,22,Some college but no degree,7,7,7,7,8,7,6,6,10,10,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,27,Some college but no degree,6,4,8,7,5,8,7,6,4,5,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,6,6,5,5,5,5,8,6,8,7,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,24,An associate degree,8,8,5,5,8,10,6,7,10,10,9,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,A bachelors degree,10,10,9,10,10,10,10,8,10,10,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,8,9,10,9,9,8,9,9,8,10,5,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,A bachelors degree,4,1,3,5,5,4,3,3,6,4,3,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,High school diploma or equivalent,8,10,10,8,8,8,8,8,9,10,9,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,5,6,9,6,5,7,6,7,5,3,7,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,9,5,5,4,9,8,9,10,6,10,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,7,7,8,6,8,7,6,5,8,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,An associate degree,7,9,8,7,10,10,8,8,8,8,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,Some college but no degree,10,10,7,10,10,10,3,10,7,7,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,8,8,8,7,10,8,7,9,5,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,35,An associate degree,10,9,9,9,9,9,9,9,9,9,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,An associate degree,7,6,5,6,7,8,6,6,9,9,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,6,6,4,4,4,4,4,5,5,3,4,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,6,4,5,3,7,6,5,10,3,8,10,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,5,6,5,4,6,7,8,5,5,8,5,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,9,10,7,9,10,10,9,6,9,9,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,8,7,5,8,8,8,7,8,10,5,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,Some college but no degree,4,5,3,3,3,9,6,9,2,2,8,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,8,9,6,7,7,8,10,9,9,10,4,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,An associate degree,6,6,7,7,7,6,9,7,7,10,6,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,43,A bachelors degree,7,6,3,7,5,5,5,5,5,5,5,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,34,A bachelors degree,10,10,10,10,10,10,10,9,10,10,10,10,Staff,9,10,9,10,10,10,10,10,10,9,9,10,8,10,9,10,9,10,10,10
+Female,22,Some college but no degree,9,9,6,7,9,8,9,8,7,10,7,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,High school diploma or equivalent,10,10,9,9,9,10,9,N/A,10,N/A,9,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,A bachelors degree,7,6,6,6,7,7,7,7,7,8,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,9,7,8,9,7,8,10,10,9,4,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,9,9,6,8,9,8,8,8,7,9,7,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,24,An associate degree,7,9,8,7,7,10,9,8,7,10,10,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,7,5,6,6,6,6,5,2,9,6,2,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,7,7,10,7,8,7,10,10,10,10,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,A bachelors degree,5,4,4,4,6,3,5,1,9,2,2,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,23,An associate degree,7,8,8,6,5,8,7,7,5,5,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,High school diploma or equivalent,10,3,10,8,8,5,8,8,8,8,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,N/A,Some college but no degree,8,8,9,8,7,6,7,9,8,7,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,7,6,8,7,8,9,7,8,8,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,7,7,9,7,7,9,6,10,8,10,7,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,23,A bachelors degree,7,8,8,9,6,7,8,10,10,10,10,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,73,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,6,7,8,9,9,8,9,9,9,7,8,Faculty,6,7,7,7,8,7,6,8,9,7,8,7,6,8,7,8,6,7,8,10
+Female,20,Some college but no degree,9,8,7,8,8,8,8,6,6,6,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,7,7,8,6,5,7,6,6,5,10,8,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,10,8,7,7,9,10,10,9,6,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,7,8,9,8,10,10,9,8,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,N/A,High school diploma or equivalent,5,8,5,6,10,10,10,7,9,10,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,Some college but no degree,10,10,10,10,10,10,10,4,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,8,6,8,7,9,9,3,5,8,10,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,5,5,6,3,5,6,8,5,4,4,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,23,A bachelors degree,10,9,8,8,9,9,8,9,9,9,7,9,Staff,8,8,8,9,10,10,10,10,9,9,9,10,8,9,9,10,9,10,10,10
+Male,18,Some college but no degree,5,8,7,4,8,6,10,7,3,10,5,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,7,9,8,7,6,6,8,10,7,10,10,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,4,5,3,4,6,7,5,4,4,8,N/A,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,7,6,5,5,7,10,8,6,10,10,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,19,High school diploma or equivalent,9,9,4,9,10,8,8,9,9,10,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,10,7,6,10,10,9,7,9,10,10,4,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,7,8,8,9,9,10,9,7,7,8,3,5,Staff,0,0,0,0,0,0,0,0,4,0,0,5,0,0,0,0,5,5,5,5
+Female,50,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,9,8,7,9,8,8,8,9,10,8,10,Staff,5,8,7,7,8,7,7,8,7,7,7,7,7,9,7,7,7,8,8,8
+Female,44,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,7,8,8,9,7,7,7,9,10,9,Faculty,6,8,7,7,9,8,8,7,8,7,8,8,4,7,7,8,8,9,10,10
+Female,23,A bachelors degree,7,9,5,6,7,6,5,5,7,8,8,6,Staff,5,8,6,5,5,7,7,6,6,6,5,6,5,7,6,7,5,6,8,8
+Female,35,An associate degree,9,9,4,9,8,8,9,4,9,10,5,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,48,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",4,5,2,4,6,4,9,6,3,6,9,10,Faculty,4,4,2,3,2,1,0,0,5,2,3,3,4,4,4,5,2,2,7,7
+Male,49,N/A,9,10,9,9,9,10,9,8,6,6,9,10,Staff,3,2,1,4,10,10,10,10,4,2,1,4,2,6,1,1,1,10,8,10
+Female,41,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",6,7,7,6,7,10,10,7,6,10,9,10,Faculty,6,6,6,6,7,8,8,8,5,6,6,6,6,8,7,6,8,8,8,8
+Female,18,Some college but no degree,7,9,9,9,9,10,9,9,8,10,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,10,10,10,10,10,10,10,10,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,28,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,10,7,10,8,10,9,10,10,10,9,8,Faculty,0,0,0,0,2,4,6,4,4,7,7,7,7,9,9,10,10,10,10,10
+Male,21,A bachelors degree,8,8,8,8,9,10,10,9,9,9,7,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,7,8,7,5,7,10,5,4,9,9,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,50,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,7,8,9,10,9,8,8,9,9,10,Faculty,0,0,0,0,1,1,1,1,2,0,1,1,0,0,0,0,1,3,5,5
+Male,54,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",9,9,5,6,9,3,10,4,4,6,0,3,Faculty,2,9,2,2,10,10,10,10,6,10,9,9,2,10,6,7,2,10,1,10
+Female,29,A bachelors degree,8,8,8,7,9,7,9,7,7,10,5,8,Staff,2,2,1,1,1,1,1,1,2,1,1,1,0,0,0,2,2,5,6,8
+Male,18,High school diploma or equivalent,6,6,6,6,5,6,6,10,4,7,5,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,10,8,6,8,8,10,8,8,8,10,8,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,45,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,9,9,9,10,8,8,8,10,8,8,Faculty,8,10,8,8,8,8,8,8,10,10,8,8,8,9,8,8,8,10,10,10
+Female,21,High school diploma or equivalent,5,3,1,2,5,10,6,4,3,2,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,49,A bachelors degree,8,10,7,9,10,10,10,10,9,5,9,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,An associate degree,6,8,8,8,8,8,8,8,8,8,8,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,39,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,9,8,8,8,8,8,8,8,8,8,9,Faculty,7,7,7,7,7,7,7,7,8,8,7,7,7,7,6,8,7,7,8,8
+Male,19,Some college but no degree,6,5,9,7,6,9,7,8,7,3,6,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,7,5,7,6,5,7,7,8,6,10,10,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,8,9,8,7,8,9,9,7,8,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,5,5,4,7,8,5,7,4,2,4,3,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,6,9,7,6,6,6,7,5,10,10,10,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,40,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,9,8,7,9,9,9,8,10,10,4,7,Faculty,7,8,4,4,6,7,5,4,7,5,3,3,3,5,5,6,7,7,9,9
+Male,41,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,9,10,10,9,8,10,8,10,10,10,Faculty,4,8,2,5,7,3,3,5,8,2,N/A,6,2,6,7,10,3,6,10,10
+Male,19,Some college but no degree,6,8,8,7,8,4,9,9,10,10,6,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,An associate degree,8,8,7,8,7,8,7,8,9,9,8,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,50,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,7,7,9,7,8,8,7,8,7,6,Faculty,5,7,6,6,6,6,6,6,5,5,4,4,3,6,4,6,6,7,8,9
+Female,20,Some college but no degree,6,7,8,4,8,10,8,5,4,10,9,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,2,4,4,4,2,3,5,5,6,8,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,8,8,10,6,9,10,8,9,8,9,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,Some college but no degree,9,8,5,7,9,8,9,8,9,9,7,N/A,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,5,4,3,5,4,3,5,5,4,4,4,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,High school diploma or equivalent,7,9,10,9,10,10,10,10,10,10,10,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,9,9,6,8,8,8,7,4,7,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,High school diploma or equivalent,8,8,9,7,9,8,10,8,10,9,9,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,A bachelors degree,10,10,5,10,10,10,10,10,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,N/A,Some college but no degree,5,6,8,6,8,9,8,8,9,9,10,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,38,An associate degree,10,10,9,10,10,10,10,9,9,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,48,An associate degree,9,8,6,9,9,8,8,7,9,10,6,8,Staff,8,8,6,7,9,8,9,9,8,6,8,7,7,8,7,8,9,8,10,10
+Male,32,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",4,7,1,7,10,10,10,10,10,10,4,3,Staff,9,9,8,8,10,10,10,10,6,N/A,N/A,N/A,5,9,9,9,9,9,9,9
+Male,20,Some college but no degree,10,10,8,9,7,9,10,8,8,8,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,8,10,9,8,9,10,10,9,8,10,10,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,48,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",8,8,8,8,7,9,10,9,7,8,6,7,Faculty,5,7,6,6,7,7,7,5,5,5,5,9,2,5,5,7,7,8,8,8
+Male,20,Some college but no degree,7,8,9,8,6,10,9,7,5,10,7,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,21,Some college but no degree,7,8,7,8,7,7,8,8,8,8,9,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,7,8,8,7,7,9,9,7,9,9,9,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,Some college but no degree,8,9,8,7,8,7,6,6,7,8,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,6,5,8,3,8,9,7,6,4,10,8,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,8,8,8,7,8,10,8,10,7,7,9,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,3,7,8,7,8,7,8,8,9,10,10,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,7,7,8,6,6,9,7,7,8,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,5,6,4,5,3,8,8,2,2,4,1,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,10,10,10,10,10,8,10,8,10,10,7,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,8,8,8,7,9,10,7,4,8,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,8,8,8,7,10,10,8,9,10,10,10,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,A bachelors degree,8,9,8,6,8,8,8,6,8,8,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,5,8,9,5,6,8,7,5,10,7,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,18,Some college but no degree,9,9,10,9,10,10,8,10,9,10,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,10,9,9,9,10,10,9,9,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,25,A bachelors degree,7,7,5,6,9,9,10,7,10,10,10,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,Some college but no degree,7,8,5,7,9,8,7,8,10,10,9,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,35,A bachelors degree,10,10,4,4,10,10,10,10,5,7,6,2,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,7,9,8,8,9,9,3,5,8,10,10,1,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,24,An associate degree,5,7,7,4,6,9,5,5,7,7,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,22,Some college but no degree,5,5,8,2,5,10,8,8,4,4,5,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,50,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",6,6,7,8,7,7,7,6,7,10,8,3,Faculty,6,5,5,5,5,5,5,5,5,7,3,5,3,7,7,7,7,8,10,8
+Female,22,A bachelors degree,8,8,7,7,9,8,10,9,10,7,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,22,An associate degree,5,5,5,5,5,5,5,4,4,4,4,4,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,High school diploma or equivalent,9,9,9,8,9,10,10,9,9,8,9,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,26,An associate degree,7,6,3,3,7,8,8,6,3,9,5,8,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,20,An associate degree,9,8,9,8,9,9,10,9,10,10,7,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,An associate degree,4,6,7,6,8,5,5,7,7,9,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,10,10,9,9,10,10,8,8,10,10,7,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,5,7,6,5,7,8,7,5,10,10,8,9,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,21,Some college but no degree,7,7,6,5,7,8,6,5,9,9,8,7,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,High school diploma or equivalent,8,6,10,5,6,9,9,10,9,9,8,5,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,19,High school diploma or equivalent,7,7,6,7,8,8,8,9,8,10,7,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,20,Some college but no degree,8,10,10,8,10,10,10,10,10,10,10,10,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Female,34,An associate degree,10,10,6,6,9,10,10,10,10,10,8,6,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Male,54,"A postgraduate degree (such as a masters degree, professional degree, or doctoral degree)",7,7,5,7,9,8,9,5,7,10,3,7,Faculty,4,4,2,2,1,1,1,3,5,2,2,2,0,0,0,2,1,8,8,8
+Female,34,High school diploma or equivalent,8,9,6,5,10,10,10,8,10,10,7,0,Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
